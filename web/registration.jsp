@@ -23,7 +23,7 @@
     <body>
         <div class="container">
             
-            <jsp:include page="header.jsp"/>
+            <html:include page="header.html"/>
             
             <!--------------------------Content area Starts------------------------------->
             
@@ -142,7 +142,7 @@
             
             <!--------------------------Content area Ends--------------------------------->
             
-            <jsp:include page="footer.jsp"/>
+            <html:include page="footer.html"/>
                 
             
         </div>
